@@ -1,12 +1,12 @@
 {
-    "name": "saleem189/cart",
+    "name": "webazin/cart",
     "description": "Laravel 5 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Darryl Fernandez",
-            "email": "engrdarrylfernandez@gmail.com"
+            "name": "mahdi farhadpour",
+            "email": "fahadpour4187@gmail.com"
         }
     ],
     "require": {
